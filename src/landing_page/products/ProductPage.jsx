@@ -10,13 +10,13 @@ import RightImage from './RightImage';
 function ProductPage() {
     return ( 
     <>    
-       <Navbar/>
+
        <Hero/>
        <LeftImage/>
        <RightImage/>
        <Universe/>
        <OpenAccount/>
-       <Footer/>
+  
        </>
      );
 }
