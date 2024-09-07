@@ -10,3 +10,28 @@ body {
 
 }
 
+
+.nav-link{
+  margin-left: 30px;
+ 
+        padding: 7px;
+
+}
+
+.anchor a{
+  padding-top: 20px;
+  text-decoration: none;
+ 
+  
+
+
+
+}
+.footerEndLink{
+  padding-left: 60px;
+}
+
+.footerEndLink a{
+  text-decoration: none;
+   padding-left: 30px;
+}
