@@ -19,7 +19,7 @@ body {
 }
 
 .anchor a{
-  padding-top: 20px;
+
   text-decoration: none;
  
   
@@ -34,4 +34,28 @@ body {
 .footerEndLink a{
   text-decoration: none;
    padding-left: 30px;
+}
+#supportHero{
+  background-color: #387ed1;
+  color: white;
+ 
+}
+
+#supportHero a {
+  color: white;
+}
+
+#supportWrapper{
+  display: flex;
+  justify-content:space-between ;
+  margin: 0 150px;
+
+}
+
+#supportHero input{
+  padding: 20px 50px;
+  width: 100%;
+  font-size: 20px;
+  border-radius: 10px;
+  border: none;
 }
